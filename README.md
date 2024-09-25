@@ -1,16 +1,12 @@
-# flutter_notification
+# Flutter Reminder Application
 
-A new Flutter project.
+A simple Flutter application to set reminders for daily activities. This app uses `awesome_notifications` package to schedule local notifications for the user-defined reminders.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+- Schedule reminders for specific activities.
+- Choose the day of the week and time for reminders.
+- View and manage a list of scheduled reminders.
+- Local notifications using `awesome_notifications` package.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
